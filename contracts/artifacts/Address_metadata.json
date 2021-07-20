@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.4+commit.c7e474f2"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/GoRi.sol": "Address"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/GoRi.sol": {
+			"keccak256": "0x976897bb548715b84db3ef9c53a50b3b471ed0dedf4aac1953126c06d62093e6",
+			"license": "Unlicensed",
+			"urls": [
+				"bzz-raw://b033e3bb2888c8539e04fa86f0f4bdfdfc9f3c305bcd1cd76192777dc22a2425",
+				"dweb:/ipfs/QmWLRtB1tBkLXqkcToV5WmSg8TcaYDbgg6gxUc1kwjCKYn"
+			]
+		}
+	},
+	"version": 1
+}
